@@ -7,10 +7,10 @@
     - took ~10hrs, with a 2hrs break in between and good chunks of procrastinating here and there
 - Lab Assignment 2
     - partially completed, submitted, awaiting feedback
-    - 3 individual tasks
-        1. Apriori Algorithm (completed 33/33)
-        2. Dimensionality reduction : PCA through SVD, Non Neg Matrix Factorisation (completed 21/27)
-        3. Clustering (completed 0/34)
+    - 3 individual tasks:
+    1. Apriori Algorithm (completed 33/33)
+    2. Dimensionality reduction : PCA through SVD, Non Neg Matrix Factorisation (completed 21/27)
+    3. Clustering (completed 0/34)
     - roughly ~5hrs estimation for Task1
     - roughly ~2.5hrs estimation for the partial of Task2
 
